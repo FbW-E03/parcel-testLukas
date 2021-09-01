@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "live-server": "^1.2.1"
+  },
+  "name": "1-09-2021_livecoding_lukas",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "cssnano": "^5.0.8",
+    "sass": "^1.38.2"
+  },
+  "scripts": {
+    "live": "live-server index.html",
+    "parcel": "parcel index.html",
+    "build": "parcel build app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
